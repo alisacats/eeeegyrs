@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\dev\eeegyr-master" t="IncludeFlat">
+      <e p="eeegyr" t="IncludeRecursive">
+        <e p="Allstydios.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ButtonChoice.cs" t="Include" />
+        <e p="eeegyr.csproj" t="IncludeRecursive" />
+        <e p="ForDB.cs" t="Include" />
+        <e p="HandlerMessage.cs" t="Include" />
+        <e p="KeyBoardWorck.cs" t="Include" />
+        <e p="Navigation.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="eeegyr.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ParceMessage.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="ReadFuckingExcle.cs" t="Include" />
+        <e p="SearchStydio.cs" t="Include" />
+        <e p="State.cs" t="Include" />
+        <e p="Step.cs" t="Include" />
+        <e p="studio.cs" t="Include" />
+        <e p="StudioInfo.cs" t="Include" />
+        <e p="TelegramBotExtensions.cs" t="Include" />
+        <e p="Xls" t="Include">
+          <e p="IntExtensions.cs" t="Include" />
+          <e p="IRow.cs" t="Include" />
+          <e p="ITable.cs" t="Include" />
+          <e p="TableBase.cs" t="Include" />
+          <e p="TableRow.cs" t="Include" />
+          <e p="XlsTable.cs" t="Include" />
+        </e>
+      </e>
+      <e p="eeegyr.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\root\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\root\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_eeegyr.973609443.00" t="ExcludeRecursive" />
+  </component>
+</project>

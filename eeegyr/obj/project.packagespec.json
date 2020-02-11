@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\dev\\eeegyr-master\\eeegyr\\eeegyr.csproj",
+    "projectName": "eeegyr",
+    "projectPath": "C:\\dev\\eeegyr-master\\eeegyr\\eeegyr.csproj",
+    "outputPath": "C:\\dev\\eeegyr-master\\eeegyr\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "ExcelDataReader": {
+          "target": "Package",
+          "version": "[3.4.2, )"
+        },
+        "LiteDB": {
+          "target": "Package",
+          "version": "[4.1.4, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "NPOI": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        },
+        "SQLite": {
+          "target": "Package",
+          "version": "[3.13.0, )"
+        },
+        "Telegram.Bot": {
+          "target": "Package",
+          "version": "[14.10.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
